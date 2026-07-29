@@ -1,2 +1,5 @@
 # python_calculator
-a smart calculator application built with python and modern user interface.
+a simple calculator project built with python.
+# project_description
+thid prject is a basic command-line calculator created to practice python programming concepts such as functions,conditinal statements and loops.
+Atena
